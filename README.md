@@ -1,17 +1,15 @@
-# Kütüphaneler
+ViralView - YouTube Video Viewer
+ViralView is a React.js project that utilizes the YouTube API to display videos. The project is developed using popular React libraries and tools.
 
-- react-router-dom
-- axios
-- react-icons
-- millify
-- moment
-- react-player
-- tailwind (kurulumu kendi sayfasında)
-
-# Yapılacaklar
-
-- `SideNav.jsx` içersinde kategorileri listele
-- - Seçilen kategorilerin bilgisini context yapısında tut
-
-- Her yeni kategori seçildiğinde o kategori ile alakalı videoları çek
-- - `Feed.jsx` içerisinde her video için bir video kartı ekrana bas
+Features
+View videos
+Quickly and easily access videos
+Customizable interface with Tailwind CSS
+Used Libraries
+React Router Dom
+Axios
+React Icons
+Millify
+Moment
+React Player
+Tailwind CSS
